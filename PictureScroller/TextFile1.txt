@@ -1,0 +1,2 @@
+﻿Have a history of 100 pictures
+If the user goes back and then goes forward, go through the list of history until we reach the end
